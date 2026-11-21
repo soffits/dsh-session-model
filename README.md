@@ -8,11 +8,7 @@ With this plugin loaded, the picker changes only the session it is in. The defau
 
 ## Install
 
-```sh
-npm view @soffits/dsh-session-model version
-```
-
-Add it to the profile like any other bundle (`plugin_manager install_bundle @soffits/dsh-session-model`). It has no settings and adds no tools. Set the default you want in the profile patch:
+Add `@soffits/dsh-session-model` to the profile like any other bundle (`plugin_manager install_bundle @soffits/dsh-session-model`). It has no settings and adds no tools. Set the default you want in the profile patch:
 
 ```yaml
 - id: agent-default-model
