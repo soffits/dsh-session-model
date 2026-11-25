@@ -1,3 +1,5 @@
+> **Moved.** This plugin is now part of [@soffits/dsh-web-tweaks](https://github.com/soffits/dsh-web-tweaks) (`features/session-model`), with its history. This repository is archived.
+
 # dsh-session-model
 
 A [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) plugin that keeps a model picked in a session in that session.
